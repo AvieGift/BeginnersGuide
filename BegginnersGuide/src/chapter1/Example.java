@@ -1,3 +1,4 @@
+package chapter1;
 
 /*
  * This is a simple Java Program

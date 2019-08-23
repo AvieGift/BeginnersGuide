@@ -1,3 +1,4 @@
+package chapter1;
 /*
  * Demonstrate a block of code
  * 
